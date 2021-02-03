@@ -5,3 +5,7 @@ img{
 body{
 	background-color: "light blue";
 }
+p{
+	text-align: right;
+	font-size: 20 em;
+}
